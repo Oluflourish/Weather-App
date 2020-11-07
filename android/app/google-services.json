@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258658292876",
+    "firebase_url": "https://motormata-9b765.firebaseio.com",
+    "project_id": "motormata-9b765",
+    "storage_bucket": "motormata-9b765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258658292876:android:d81eb7fac643b24e7797a9",
+        "android_client_info": {
+          "package_name": "com.flourish.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258658292876-9upp541qcn9klm61tbrajtpk2pdbarsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFqf_B3cdnKrF5XwaZ2os7_D6bNuFVE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258658292876-3kk7hfn15la2lhr5vc5d8unqkkltoepf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
