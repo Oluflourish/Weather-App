@@ -4,7 +4,7 @@ A Flutter app to to display Weather Forecasts<br>
 
 The [OpenWeather API](https://openweathermap.org/) was used to fetch the weather data. 
 
-
+<br>
 
 ## ✨ Features
 * Firebase Authentication.
@@ -13,7 +13,7 @@ The [OpenWeather API](https://openweathermap.org/) was used to fetch the weather
 * MVVM Architecture.
 * SharedPreference (Persistence of location and user login state)
 
-
+<br>
 
 ## 📸 Screenshots
 | Splash Screen| Sign In Screen| Sign Up Screen|
