@@ -1,3 +1,4 @@
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:weather_app/constants/route_names.dart';
 import 'package:weather_app/locator.dart';
 import 'package:weather_app/services/authentication_service.dart';
@@ -19,6 +20,9 @@ class WeatherDetailsViewModel extends BaseModel {
     await _authenticationService.signOut();
 
     setBusy(false);
+
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('WA_isLoggenIn', false);
 
     _navigationService.navigateTo(SignInViewRoute);
   }
