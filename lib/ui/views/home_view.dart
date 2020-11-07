@@ -26,7 +26,7 @@ class _HomeViewState extends State<HomeView> {
 
   @override
   void initState() {
-    String apiKey = "AIzaSyDpF1z1rLFd8BmLnXJ6QajbxFKETxk0Upw";
+    String apiKey = "";
     googlePlace = GooglePlace(apiKey);
     super.initState();
   }
