@@ -5,12 +5,14 @@ A Flutter app to to display Weather Forecasts<br>
 The [OpenWeather API](https://openweathermap.org/) was used to fetch the weather data. 
 
 
+
 ## ✨ Features
 * Firebase Authentication.
 * Google Places (Autocomplete search features for places).
 * Provider.
 * MVVM Architecture.
 * SharedPreference (Persistence of location and user login state)
+
 
 
 ## 📸 Screenshots
